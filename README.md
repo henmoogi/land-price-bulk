@@ -4,6 +4,8 @@
 
 ![첫 화면](docs/01_첫화면.png)
 
+> 📝 소개·사용 후기·문의: [네이버 블로그](https://blog.naver.com/henmoogi)
+
 ## 👉 내려받기
 
 [**Releases**](../../releases/latest)에서 `공시지가대량조회_v<버전>.zip`을 받으세요. 파일 확인값(SHA-256)은 릴리스 설명에 있습니다.
