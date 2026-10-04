@@ -1,0 +1,6 @@
+# 이 파일을 vworld_key.txt 로 복사한 뒤 1줄에 브이월드 인증키를 붙여 넣으세요. 2줄: 도메인(비우면 localhost), 3줄: 만료일(YYYY-MM-DD, 화면에 D-day 경고)
+# 발급: https://www.vworld.kr → 로그인 → 오픈API → 인증키 발급 (개발자 키, 서비스 URL/도메인에 localhost 포함, 활용API: 2D데이터·지오코더)
+# 개발키는 발급 후 6개월 유효, 마이포털 > 나의 오픈API > 인증키관리 에서 연장신청(3회) 가능. 이 파일과 vworld_key.txt 는 저장소에 올라가지 않습니다.
+여기에_인증키
+localhost
+2027-03-17
