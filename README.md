@@ -4,7 +4,7 @@
 
 ![첫 화면](docs/01_첫화면.png)
 
-> 📝 소개 글: [네이버 블로그 — 엑셀 토지 목록으로 개별공시지가 한 번에 조회하기](https://blog.naver.com/henmoogi/224431303251) · 문의·후기는 블로그 댓글로
+> 📝 소개 글: [네이버 블로그 - 엑셀 토지 목록으로 개별공시지가 한 번에 조회하기](https://blog.naver.com/henmoogi/224431303251) · 문의·후기는 블로그 댓글로
 
 ## 👉 내려받기
 
@@ -41,6 +41,6 @@
 
 ## 라이선스
 - 이 도구: [MIT License](LICENSE)
-- 내장 라이브러리: SheetJS Community Edition 0.18.5 — Apache License 2.0 (© SheetJS LLC)
+- 내장 라이브러리: SheetJS Community Edition 0.18.5 - Apache License 2.0 (© SheetJS LLC)
 - 데이터: 국토교통부 브이월드 오픈API(사용자 본인 인증키), 행정안전부 법정동코드
 - 자세한 고지: [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt)
